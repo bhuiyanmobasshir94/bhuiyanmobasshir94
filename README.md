@@ -16,7 +16,7 @@
 
 | Domain | Repository URL | Domain | Repository URL |
 |-	|-	|- |- |
-| Machine Learning | [repo](https://github.com/bhuiyanmobasshir94/machine-learning-base) | Problem Solving  |  |
+| Machine Learning | [repo](https://github.com/bhuiyanmobasshir94/Machine-Learning) | Problem Solving  |  |
 | Deep Learning | [repo](https://github.com/bhuiyanmobasshir94/deep-learning-base)	| Software Engineering Best Practices | |
 | Data Science | [repo](https://github.com/bhuiyanmobasshir94/data-science-base) | Interview ||
 | Data Engineering || Higher Study | |
