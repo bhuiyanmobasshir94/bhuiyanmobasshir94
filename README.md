@@ -21,6 +21,6 @@
 | Data Science | [repo](https://github.com/bhuiyanmobasshir94/Data-Science) | Interview ||
 | Data Engineering || Higher Study | |
 | Computer Vision || Testing ||
-| Edge / IoT || Research | [repo](https://github.com/bhuiyanmobasshir94/research-base) |
+| Edge / IoT || Research | [repo](https://github.com/bhuiyanmobasshir94/Research) |
 | Big Data | | 
 | Cloud DevOps ||
