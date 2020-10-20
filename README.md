@@ -14,13 +14,11 @@
 
 ## ✨ Repository Listing ✨
 
-| Domain | Repository URL | Domain | Repository URL |
+| Artificial Intelligence | Computing | Software Engineering | R&D |
 |-	|-	|- |- |
-| Machine Learning | [repo](https://github.com/bhuiyanmobasshir94/Machine-Learning) | Problem Solving  |  |
-| Deep Learning | [repo](https://github.com/bhuiyanmobasshir94/Deep-Learning)	| Software Engineering Best Practices | |
-| Data Science | [repo](https://github.com/bhuiyanmobasshir94/Data-Science) | Interview ||
-| Data Engineering || Higher Study | |
-| Computer Vision || Testing ||
-| Edge / IoT || Research | [repo](https://github.com/bhuiyanmobasshir94/Research) |
-| Big Data | | 
-| Cloud DevOps ||
+| [Machine Learning](https://github.com/bhuiyanmobasshir94/Machine-Learning) | Data Engineering | Problem Solving  | [Research](https://github.com/bhuiyanmobasshir94/Research) |
+| [Deep Learning](https://github.com/bhuiyanmobasshir94/Deep-Learning) | Big Data | Software Engineering Best Practices | Higher Study |
+| [Data Science](https://github.com/bhuiyanmobasshir94/Data-Science) |  | Interview |  |
+| Computer Vision |   | Testing |  |
+| Edge / IoT |  | Cloud DevOps |  |
+
