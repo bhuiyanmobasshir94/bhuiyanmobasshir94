@@ -18,8 +18,8 @@
 |-	|-	|- |- |
 | [Machine Learning](https://github.com/bhuiyanmobasshir94/Machine-Learning) | Data Engineering | Problem Solving  | [Research](https://github.com/bhuiyanmobasshir94/Research) |
 | [Deep Learning](https://github.com/bhuiyanmobasshir94/Deep-Learning) | Big Data | Software Engineering Best Practices | Higher Study |
-| [Data Science](https://github.com/bhuiyanmobasshir94/Data-Science) | GIS | Interview |  |
-| Computer Vision |   | Testing |  |
+| [Data Science](https://github.com/bhuiyanmobasshir94/Data-Science) | GIS | Interview | [Coursera Specializations](https://github.com/bhuiyanmobasshir94/Coursera-Specializations) |
+| Computer Vision |   | Testing | [NUS Artificial Intelligence Training](https://github.com/bhuiyanmobasshir94/NUS-Artificial-Intelligence-Training) |
 | Edge / IoT |  | Cloud DevOps |  |
 
 </br>
