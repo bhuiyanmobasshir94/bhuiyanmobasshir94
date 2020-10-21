@@ -18,7 +18,7 @@
 |-	|-	|- |- |
 | [Machine Learning](https://github.com/bhuiyanmobasshir94/Machine-Learning) | Data Engineering | Problem Solving  | [Research](https://github.com/bhuiyanmobasshir94/Research) |
 | [Deep Learning](https://github.com/bhuiyanmobasshir94/Deep-Learning) | Big Data | Software Engineering Best Practices | Higher Study |
-| [Data Science](https://github.com/bhuiyanmobasshir94/Data-Science) |  | Interview |  |
+| [Data Science](https://github.com/bhuiyanmobasshir94/Data-Science) | GIS | Interview |  |
 | Computer Vision |   | Testing |  |
 | Edge / IoT |  | Cloud DevOps |  |
 
