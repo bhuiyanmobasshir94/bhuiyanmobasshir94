@@ -14,7 +14,7 @@
 
 ### ✨ Repository Listing ✨
 
-| Artificial Intelligence | Computing | Software Engineering | R&D |
+| Artificial Intelligence | Computing | Software Engineering | Miscellaneous |
 |-	|-	|- |- |
 | [Machine Learning](https://github.com/bhuiyanmobasshir94/Machine-Learning) | Data Engineering | Problem Solving  | [Research](https://github.com/bhuiyanmobasshir94/Research) |
 | [Deep Learning](https://github.com/bhuiyanmobasshir94/Deep-Learning) | Big Data | Software Engineering Best Practices | Higher Study |
@@ -24,5 +24,5 @@
 
 </br>
 <p align="center">
-Thanks for your time and consideration
+<strong>Thanks for your time and consideration</strong>
 </p>
