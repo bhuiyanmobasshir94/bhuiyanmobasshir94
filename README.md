@@ -2,7 +2,7 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mobasshir-bhuiyan-shagor/)
 [![Kaggle Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=37474f&logo=kaggle&logoColor=4fc3f7)](https://www.kaggle.com/mobasshir)
 
-<a target="_blank" href="/"><img width="360" align="right" src="https://cdn.pixabay.com/photo/2018/08/18/13/27/browser-3614768__340.png"></a>
+<a target="_blank" href="/"><img width="300" align="right" src="https://cdn.pixabay.com/photo/2018/08/18/13/27/browser-3614768__340.png"></a>
 
 ### Hi there, welcome to this repository 👋
 
@@ -33,7 +33,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=bhuiyanmobasshir94&show_icons=true">
 
-</br>
 <p align="center">
 <strong>Thanks for your time and consideration</strong>
 </p>
