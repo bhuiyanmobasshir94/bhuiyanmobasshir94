@@ -1,4 +1,4 @@
-### Hi there, welcome to my repository 👋
+### Hi there, welcome to this repository 👋
 
 <!--
 **bhuiyanmobasshir94/bhuiyanmobasshir94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,7 +12,7 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mobasshir-bhuiyan-shagor/) | [Kaggle](https://www.kaggle.com/mobasshir) or google *"Mobasshir Bhuiyan Shagor"*
 - ⚡ Fun fact: *Love talking with innovative minds*
 
-## ✨ Repository Listing ✨
+### ✨ Repository Listing ✨
 
 | Artificial Intelligence | Computing | Software Engineering | R&D |
 |-	|-	|- |- |
@@ -22,3 +22,7 @@
 | Computer Vision |   | Testing |  |
 | Edge / IoT |  | Cloud DevOps |  |
 
+</br>
+<p align="center">
+Thanks for your time and consideration
+</p>
