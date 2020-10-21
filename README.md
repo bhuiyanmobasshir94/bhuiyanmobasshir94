@@ -31,7 +31,7 @@
 | Computer Vision |   | Testing | [NUS Artificial Intelligence Training](https://github.com/bhuiyanmobasshir94/NUS-Artificial-Intelligence-Training) |
 | Edge / IoT |  | [Cloud DevOps](https://github.com/bhuiyanmobasshir94/Cloud-DevOps) |  |
 
-<img src="https://github-readme-stats.vercel.app/api?username=bhuiyanmobasshir94&show_icons=true">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=bhuiyanmobasshir94&show_icons=true"> -->
 
 <p align="center">
 <strong>Thanks for your time and consideration</strong>
