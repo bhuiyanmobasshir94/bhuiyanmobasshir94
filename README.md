@@ -14,12 +14,12 @@
 -->
 
 - 🔭 I’m currently working on **Machine Learning (Recommendation Systems)**
-- 🌱 I’m currently learning *Machine Learning and Cloud DevOps. I am a PhD aspirant in the field of Machine Learing*.
+- 🌱 I’m currently learning **Machine Learning and Cloud DevOps. I am a PhD aspirant in the field of Machine Learing**.
 - 👯 I’m looking to collaborate on **NLP and Biomedical Imaging projects**. 
 - 🤔 I’m looking for help with **Research on Biomedical Imaging**.
 - 💬 Ask me about **ML, DL, DS, DevOps, CV and Edge / IoT technologies**.
 - 📫 How to reach me: google *"Mobasshir Bhuiyan Shagor"*
-- ⚡ Fun fact: *Love talking with innovative minds*
+- ⚡ Fun fact: **Love talking with innovative minds**.
 
 ### ✨ Repository Listing ✨
 
