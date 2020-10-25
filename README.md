@@ -31,14 +31,6 @@
 | Computer Vision |   | Testing | [NUS Artificial Intelligence Training](https://github.com/bhuiyanmobasshir94/NUS-Artificial-Intelligence-Training) |
 | Edge / IoT |  | [Cloud DevOps](https://github.com/bhuiyanmobasshir94/Cloud-DevOps) |  |
 
-### ✨ Excellent AI Research Platform ✨
-| Platform | Link |
-|-|-|
-| Facebook Research | [link](https://research.fb.com/) |
-| Uber Engineering Research | [link](https://eng.uber.com/research) |
-| Facebook AI | [link](https://ai.facebook.com/) | 
-| Papers With Code | [link](https://paperswithcode.com/) |
-
 <img src="https://github-readme-stats.vercel.app/api?username=bhuiyanmobasshir94&show_icons=true">
 
 <p align="center">
