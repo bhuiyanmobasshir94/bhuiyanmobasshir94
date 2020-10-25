@@ -35,7 +35,8 @@
 | Platform | Link |
 |-|-|
 | Facebook Research | [link](https://research.fb.com/) |
-| Uber Research | [link](https://eng.uber.com/research) |
+| Uber Engineering Research | [link](https://eng.uber.com/research) |
+| Facebook AI | [link](https://ai.facebook.com/) | 
 
 <img src="https://github-readme-stats.vercel.app/api?username=bhuiyanmobasshir94&show_icons=true">
 
