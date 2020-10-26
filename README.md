@@ -29,7 +29,7 @@
 | [Deep Learning](https://github.com/bhuiyanmobasshir94/Deep-Learning) | Big Data | Software Engineering Best Practices | Higher Study |
 | [Data Science](https://github.com/bhuiyanmobasshir94/Data-Science) | GIS | Interview | [Coursera Specializations](https://github.com/bhuiyanmobasshir94/Coursera-Specializations) |
 | Computer Vision |   | Testing | [NUS Artificial Intelligence Training](https://github.com/bhuiyanmobasshir94/NUS-Artificial-Intelligence-Training) |
-| Edge / IoT |  | [Cloud DevOps](https://github.com/bhuiyanmobasshir94/Cloud-DevOps) |  |
+| [Edge / IoT](https://github.com/bhuiyanmobasshir94/Edge-IoT) |  | [Cloud DevOps](https://github.com/bhuiyanmobasshir94/Cloud-DevOps) |  |
 
 <img src="https://github-readme-stats.vercel.app/api?username=bhuiyanmobasshir94&show_icons=true">
 
