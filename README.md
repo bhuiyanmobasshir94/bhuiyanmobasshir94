@@ -21,6 +21,29 @@
 - 📫 How to reach me: google *"Mobasshir Bhuiyan Shagor"*
 - ⚡ Fun fact: **Love talking with innovative minds**.
 
+### ✨ Skills ✨
+-	Languages: Python, C++, Java, JavaScript
+-	Web Frameworks: Django, Flask
+-	Worked with: Spark, Django Rest Framework, Django Oscar, Geodjango, Geopandas, Folium, D3.js, Leaflet.js, Selenium, Celery, Express, Laravel and WordPress, Shell
+-	Version Control: Git
+-	Databases: PostgreSQL, SQLite, MySQL, SQL Server(MOOC)
+-	OS: Windows, Linux – 14.04, 16.04, Raspbian
+-	Iaas & Paas Services: Digital Ocean, Heroku
+-	Tools: Slack, Trello, Open Project, MantisBT, Box, Airtable
+-	AWS: Boto3 (Library), Amazon EC2 & S3, AWS lambda, API Gateway, Cloud Formation, SNS, SQS, Amazon SageMaker
+-	AI Stack: 
+    -	Library: Numpy, Pandas, Scipy, Jupyter notebook, Scikit-learn, Matplotlib, Seaborn, Bokeh, Anaconda
+    -	Framework: Keras, Tensorflow, Pytorch
+    -	Edge tool: Intel Openvino toolkit
+-	Familiar with: 
+    -	Android (Java and kotlin), Tensorflow lite
+
+### ✨ Handle ✨
+-	DataCamp: mobasshir-bhuiyan-shagor
+-	HackerRank: MobasshirShagor
+-	Stack Overflow: /users/7195890/mobasshir-bhuiyan
+-	Medium: @mobasshirbhuiyan.shagor
+
 ### ✨ Repository Listing ✨
 
 | Artificial Intelligence | Computing | Software Engineering | Miscellaneous |
