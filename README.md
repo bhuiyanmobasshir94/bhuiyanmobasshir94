@@ -29,8 +29,8 @@
 -	OS: Windows, Linux (14.04, 16.04), Raspbian
 -	Iaas & Paas Services: Digital Ocean, Heroku
 -	Tools: Slack, Trello, Open Project, MantisBT, Box, Airtable
--   Azure:
--   GCP:
+-   Azure: AutoML
+-   GCP: Bigquery
 -	AWS: 
     - Library: Boto3
     - Services: Amazon EC2 & S3, AWS lambda, API Gateway, Cloud Formation, SNS, SQS, Amazon SageMaker
