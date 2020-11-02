@@ -26,7 +26,7 @@
 | Artificial Intelligence | Computing | Software Engineering | Miscellaneous |
 |-	|-	|- |- |
 | [Machine Learning](https://github.com/bhuiyanmobasshir94/Machine-Learning) | Data Engineering | Problem Solving  | [Research](https://github.com/bhuiyanmobasshir94/Research) |
-| [Deep Learning](https://github.com/bhuiyanmobasshir94/Deep-Learning) | Big Data | Software Engineering Best Practices | Higher Study |
+| [Deep Learning](https://github.com/bhuiyanmobasshir94/Deep-Learning) | Big Data | Software Engineering Best Practices | [Higher Study](https://github.com/bhuiyanmobasshir94/Higher-Study) |
 | [Data Science](https://github.com/bhuiyanmobasshir94/Data-Science) | [GIS](https://github.com/bhuiyanmobasshir94/GIS) | Interview | [Coursera Specializations](https://github.com/bhuiyanmobasshir94/Coursera-Specializations) |
 | [Computer Vision](https://github.com/bhuiyanmobasshir94/Computer-Vision) |   | [Testing](https://github.com/bhuiyanmobasshir94/Testing) | [NUS Artificial Intelligence Training](https://github.com/bhuiyanmobasshir94/NUS-Artificial-Intelligence-Training) |
 | [Edge / IoT](https://github.com/bhuiyanmobasshir94/Edge-IoT) |  | [Cloud DevOps](https://github.com/bhuiyanmobasshir94/Cloud-DevOps) | [Books](https://github.com/bhuiyanmobasshir94/Books) |
