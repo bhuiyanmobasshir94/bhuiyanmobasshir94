@@ -32,7 +32,7 @@
 - Researchgate: [~](https://www.researchgate.net/profile/Mobasshir_Shagor)
 
 ### ✨ Skills ✨
-- [CV](https://github.com/bhuiyanmobasshir94/bhuiyanmobasshir94/blob/main/CV.md)
+- CV [~](https://github.com/bhuiyanmobasshir94/bhuiyanmobasshir94/blob/main/CV.md)
 
 ### ✨ Repository Listing ✨
 
