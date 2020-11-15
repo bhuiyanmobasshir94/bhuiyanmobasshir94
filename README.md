@@ -31,7 +31,8 @@
 - Google Scholar: [~](https://scholar.google.com/citations?user=QS61JrYAAAAJ&hl=en)
 - Researchgate: [~](https://www.researchgate.net/profile/Mobasshir_Shagor)
 
-### ✨ [CV](https://github.com/bhuiyanmobasshir94/bhuiyanmobasshir94/blob/main/CV.md) ✨
+### ✨ Skills ✨
+- [CV](https://github.com/bhuiyanmobasshir94/bhuiyanmobasshir94/blob/main/CV.md)
 
 ### ✨ Repository Listing ✨
 
