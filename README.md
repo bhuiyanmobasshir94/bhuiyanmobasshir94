@@ -27,6 +27,10 @@
 -	Stack Overflow: /users/7195890/mobasshir-bhuiyan
 -	Medium: @mobasshirbhuiyan.shagor
 
+### ✨ Research Handles ✨
+- Google Scholar: [~](https://scholar.google.com/citations?user=QS61JrYAAAAJ&hl=en)
+- Researchgate: [~](https://www.researchgate.net/profile/Mobasshir_Shagor)
+
 ### ✨ Repository Listing ✨
 
 | Artificial Intelligence | Computing | Software Engineering | Miscellaneous |
