@@ -8,6 +8,12 @@
 -	OS: Windows, Linux (14.04, 16.04), Raspbian
 -	Iaas & Paas Services: Digital Ocean, Heroku
 -	Tools: Slack, Trello, Open Project, MantisBT, Box, Airtable
+-   DevOps: 
+    - Containerization: Docker, Docker-compose, Docker-machine
+    - Web proxy: Apache, Nginx, Traefik
+    - Template: Cookie-cutter
+    - Automation: Ansible
+    - CI/CD: Jenkins
 -   Azure: AutoML
 -   GCP: Bigquery
 -	AWS: 
