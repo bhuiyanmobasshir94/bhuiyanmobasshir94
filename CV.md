@@ -18,7 +18,7 @@
 -   GCP: Bigquery
 -	AWS: 
     - Library: Boto3
-    - Services: Amazon EC2 & S3, AWS lambda, API Gateway, Cloud Formation, SNS, SQS, Amazon SageMaker, Codedeploy, Codecommit, Codepipeline, AWS SAM
+    - Services: Amazon EC2 & S3, AWS lambda, API Gateway, Cloud Formation, SNS, SQS, Amazon SageMaker, Codedeploy, Codecommit, Codepipeline, Elastic Search, (AWS SAM)
 -	AI Stack: 
     -	Library: Numpy, Pandas, Scipy, Jupyter notebook, Scikit-learn, Matplotlib, Seaborn, Bokeh, Celery, Surprise, Implicit
     -   Virtual env: Anaconda
