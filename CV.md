@@ -2,7 +2,7 @@
 
 ### ✨ Skills ✨
 -	Languages: Python, C++, Java, JavaScript
--	Web Frameworks: Django, Flask, Django Rest Framework
+-	Web Frameworks: Django, Flask, Django Rest Framework, Django CMS
 -	Version Control: Git
 -	Databases: PostgreSQL, SQLite, MySQL
 -	OS: Windows, Linux (14.04, 16.04), Raspbian
