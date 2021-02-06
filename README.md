@@ -1,6 +1,7 @@
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:mobasshirbhuiyan.shagor@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mobasshir-bhuiyan-shagor/)
 [![Kaggle Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=37474f&logo=kaggle&logoColor=4fc3f7)](https://www.kaggle.com/mobasshir)
+[![](https://komarev.com/ghpvc/?username=bhuiyanmobasshir94&style=plastic)
 
 <a target="_blank" href="/"><img width="300" align="right" src="https://cdn.pixabay.com/photo/2018/08/18/13/27/browser-3614768__340.png"></a>
 
@@ -44,7 +45,8 @@
 | [Computer Vision](https://github.com/bhuiyanmobasshir94/Computer-Vision) |   | [Testing](https://github.com/bhuiyanmobasshir94/Testing) | [NUS Artificial Intelligence Training](https://github.com/bhuiyanmobasshir94/NUS-Artificial-Intelligence-Training) |
 | [Edge / IoT](https://github.com/bhuiyanmobasshir94/Edge-IoT) |  | [Cloud DevOps](https://github.com/bhuiyanmobasshir94/Cloud-DevOps) | [Books](https://github.com/bhuiyanmobasshir94/Books) |
 
-<img src="https://github-readme-stats.vercel.app/api?username=bhuiyanmobasshir94&show_icons=true">
+[![Mobasshir's github stats](https://github-readme-stats.vercel.app/api?username=bhuiyanmobasshir94&show_icons=true&theme=radical)](https://github.com/bhuiyanmobasshir94/github-readme-stats)
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=bhuiyanmobasshir94&show_icons=true"> -->
 
 <p align="center">
 <strong>Thanks for your time and consideration</strong>
