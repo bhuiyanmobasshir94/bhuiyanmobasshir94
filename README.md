@@ -1,7 +1,7 @@
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:mobasshirbhuiyan.shagor@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mobasshir-bhuiyan-shagor/)
 [![Kaggle Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=37474f&logo=kaggle&logoColor=4fc3f7)](https://www.kaggle.com/mobasshir)
-[![](https://komarev.com/ghpvc/?username=bhuiyanmobasshir94&style=plastic)
+![](https://komarev.com/ghpvc/?username=bhuiyanmobasshir94&style=plastic)
 
 <a target="_blank" href="/"><img width="300" align="right" src="https://cdn.pixabay.com/photo/2018/08/18/13/27/browser-3614768__340.png"></a>
 
