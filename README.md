@@ -31,7 +31,7 @@
 ### ✨ Research Handles ✨
 - Google Scholar: [~](https://scholar.google.com/citations?user=QS61JrYAAAAJ&hl=en)
 - Researchgate: [~](https://www.researchgate.net/profile/Mobasshir_Shagor)
-- ORCID
+- ORCID: [~](https://orcid.org/0000-0003-3912-7650)
 
 ### ✨ Skills ✨
 - CV [~](https://github.com/bhuiyanmobasshir94/bhuiyanmobasshir94/blob/main/CV.md)
