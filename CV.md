@@ -5,7 +5,7 @@
 -	Web Frameworks: Django, Flask, Django Rest Framework, Django CMS
 -	Version Control: Git
 -	Databases: PostgreSQL, SQLite, MySQL
--	OS: Windows, Linux (14.04, 16.04), Raspbian
+-	OS: Windows, Linux (14.04, 16.04, 18.04, 20.04), Raspbian
 -	Iaas & Paas Services: Digital Ocean, Heroku
 -	Tools: Slack, Trello, Open Project, MantisBT, Box, Airtable
 -   DevOps: 
@@ -19,7 +19,7 @@
 -   GCP: Bigquery, Function
 -	AWS: 
     - Library: Boto3
-    - Services: Amazon EC2 & S3, AWS lambda, API Gateway, Cloud Formation, SNS, SQS, Amazon SageMaker, Codedeploy, Codecommit, Codepipeline, Amazon Personalize, Elastic Stack(Elastic Search, Kibana, Logstash, X-Pack, Beats), (AWS SAM, Terraform)
+    - Services: Amazon EC2 & S3, AWS lambda, API Gateway, Cloud Formation & Watch, SNS, SQS, Amazon SageMaker, Codedeploy, Codecommit, Codepipeline, Amazon Personalize, Elastic Stack(Elastic Search, Kibana, Logstash, X-Pack, Beats), (AWS SAM, Terraform)
 -	AI Stack: 
     -	Library: Numpy, Pandas, Scipy, Jupyter notebook, Scikit-learn, Matplotlib, Seaborn, Bokeh, Celery, Surprise, Implicit
     -   Virtual env: Anaconda
