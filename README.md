@@ -3,7 +3,7 @@
 [![Kaggle Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=37474f&logo=kaggle&logoColor=4fc3f7)](https://www.kaggle.com/mobasshir)
 ![](https://komarev.com/ghpvc/?username=bhuiyanmobasshir94&style=plastic)
 
-<a target="_blank" href="/"><img width="300" align="right" src="https://cdn.pixabay.com/photo/2018/08/18/13/27/browser-3614768__340.png"></a>
+<a target="_blank" href="/"><img width="500" align="right" src="https://github-readme-stats.vercel.app/api?username=bhuiyanmobasshir94&show_icons=true"></a>
 
 ### Hi there, welcome to this repository 👋
 
@@ -46,7 +46,7 @@
 | [Computer Vision](https://github.com/bhuiyanmobasshir94/Computer-Vision) |   | [Testing](https://github.com/bhuiyanmobasshir94/Testing) | [NUS Artificial Intelligence Training](https://github.com/bhuiyanmobasshir94/NUS-Artificial-Intelligence-Training) |
 | [Edge / IoT](https://github.com/bhuiyanmobasshir94/Edge-IoT) |  | [Cloud DevOps](https://github.com/bhuiyanmobasshir94/Cloud-DevOps) | [Books](https://github.com/bhuiyanmobasshir94/Books) |
 
-[![Mobasshir's github stats](https://github-readme-stats.vercel.app/api?username=bhuiyanmobasshir94&show_icons=true&theme=radical)](https://github.com/bhuiyanmobasshir94/github-readme-stats)
+<!-- [![Mobasshir's github stats](https://github-readme-stats.vercel.app/api?username=bhuiyanmobasshir94&show_icons=true&theme=radical)](https://github.com/bhuiyanmobasshir94/github-readme-stats) -->
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=bhuiyanmobasshir94&show_icons=true"> -->
 
 <p align="center">
