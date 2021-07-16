@@ -5,7 +5,7 @@
 -	Web Frameworks: Django, Flask, Django Rest Framework, Django CMS
 -	Version Control: Git
 -	Databases: PostgreSQL, SQLite, MySQL
--	OS: Windows, Linux (14.04, 16.04, 18.04, 20.04), REHL 8, Raspbian
+-	OS: Windows, Linux (14.04, 16.04, 18.04, 20.04), CentOS 8, REHL 8, Raspbian
 -	Iaas & Paas Services: Digital Ocean, Heroku
 -	Tools: Slack, Trello, Open Project, MantisBT, Box, Airtable
 -   DevOps: 
