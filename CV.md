@@ -22,9 +22,10 @@
     - Services: Amazon EC2 & S3, AWS lambda, API Gateway, Cloud Formation & Watch, SNS, SQS, Amazon SageMaker, Codedeploy, Codecommit, Codepipeline, Amazon Personalize, Elastic Stack(Elastic Search, Kibana, Logstash, X-Pack, Beats), (AWS SAM, Terraform)
 -	AI Stack: 
     -	Library: Numpy, Pandas, Scipy, Jupyter notebook, Scikit-learn, Matplotlib, Seaborn, Bokeh, Celery, Surprise, Implicit, Sympy, Multiprocessing, Multithreading
-    -   Virtual environment: Anaconda, Miniconda, Virtual Env
+    -   Virtual environment: Anaconda, Miniconda, Virtual Env, Pipenv
     -	Framework: Keras, Tensorflow, Pytorch, RAPIDS
     -	Edge tool: Intel Openvino toolkit
+    -	MLOps: ~
 -	Worked with: 
     - Language: C, C#
     - Frameworks: Django Oscar, Geodjango, Express, Laravel
