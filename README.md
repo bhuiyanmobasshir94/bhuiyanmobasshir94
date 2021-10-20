@@ -3,7 +3,8 @@
 [![Kaggle Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=37474f&logo=kaggle&logoColor=4fc3f7)](https://www.kaggle.com/mobasshir)
 ![](https://komarev.com/ghpvc/?username=bhuiyanmobasshir94&style=plastic)
 
-<a target="_blank" href="/"><img width="500" align="right" src="https://github-readme-stats.vercel.app/api?username=bhuiyanmobasshir94&show_icons=true&theme=radical"></a>
+<a target="_blank" href="/"><img width="500" align="right" src="https://github-readme-stats.vercel.app/api?username=bhuiyanmobasshir94&show_icons=true&count_private=true&theme=radical"></a>
+<a target="_blank" href="/"><img width="500" height="300" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuiyanmobasshir94&theme=radical"></a>
 
 ### Hi there, welcome to this repository 👋
 
@@ -49,6 +50,12 @@
 
 <!-- [![Mobasshir's github stats](https://github-readme-stats.vercel.app/api?username=bhuiyanmobasshir94&show_icons=true&theme=radical)](https://github.com/bhuiyanmobasshir94/github-readme-stats) -->
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=bhuiyanmobasshir94&show_icons=true"> -->
+
+<div align="center">
+<!--     <img src="https://github-readme-stats.vercel.app/api?username=bhuiyanmobasshir94&show_icons=true&count_private=true&theme=nightowl" /> -->
+<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuiyanmobasshir94&theme=nightowl" /> -->
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=bhuiyanmobasshir94&theme=radical" />
+</div>
 
 <p align="center">
 <strong>Thanks for your time and consideration</strong>
