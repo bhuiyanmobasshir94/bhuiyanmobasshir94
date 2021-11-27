@@ -16,7 +16,8 @@
     - CI/CD: Jenkins
 -   File Server: Minio
 -   Azure: AutoML
--   GCP: Bigquery, Function
+-   GCP: 
+    - Services: Bigquery, Bigtable, CloudSQL, Function, Dataproc
 -	AWS: 
     - Library: Boto3
     - Services: Amazon EC2 & S3, AWS lambda, API Gateway, Cloud Formation & Watch, SNS, SQS, Amazon SageMaker, Codedeploy, Codecommit, Codepipeline, Amazon Personalize, Elastic Stack(Elastic Search, Kibana, Logstash, X-Pack, Beats), (AWS SAM, Terraform)
