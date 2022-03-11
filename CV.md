@@ -20,7 +20,7 @@
     - Services: Bigquery, Bigtable, Cloud Storage, Cloud SQL, Function, Dataproc
 -	AWS: 
     - Library: Boto3
-    - Services: EC2, S3, Lambda, API Gateway, Cloud Formation & Watch, SNS, SQS, Event bridge, Amazon SageMaker, Codedeploy, Codecommit, Codepipeline, Amazon Personalize, Managed Apache Airflow, AWS Glue, AWS EMR
+    - Services: EC2, S3, Lambda, API Gateway, Cloud Formation & Watch, SNS, SQS, Event bridge, Amazon SageMaker, Codedeploy, Codecommit, Codepipeline, Codebuild, Code Registry, ECS, Amazon Personalize, Managed Apache Airflow, AWS Glue, AWS EMR, Redshift, Athena.
 <!--     - Elastic Stack(Elastic Search, Kibana, Logstash, X-Pack, Beats), (AWS SAM, Terraform) -->
 -	AI Stack: 
     -	Library: Numpy, Pandas, Scipy, Spacy, Jupyter notebook, Scikit-learn, Matplotlib, Seaborn, Bokeh, Celery, Surprise, Implicit, Sympy, Multiprocessing, Multithreading
