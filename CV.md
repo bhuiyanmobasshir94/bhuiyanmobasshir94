@@ -6,8 +6,8 @@
 -	Version Control: Git
 -	Databases: PostgreSQL, SQLite, MySQL
 -	OS: Windows, Linux (14.04, 16.04, 18.04, 20.04), CentOS 8, REHL 8, Raspbian
--	Iaas & Paas Services: Digital Ocean, Heroku
--	Tools: Slack, Trello, Open Project, MantisBT, Box, Airtable
+-	Iaas & Paas Services: Digital Ocean, Heroku, CPanel
+-	Tools: Slack, Microsoft Teams & Office365, Notion, Airtable, Box, Open Project, Trello, MantisBT
 -   DevOps: 
     - Containerization: Docker, Docker-compose, Docker-machine
     - Web proxy: Apache, Nginx, Traefik
