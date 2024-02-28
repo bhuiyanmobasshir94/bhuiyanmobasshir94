@@ -58,6 +58,8 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=bhuiyanmobasshir94&theme=dark" />
 </div>
 
+[![Trophies](https://github-profile-trophy.vercel.app/?username=bhuiyanmobasshir94&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
 <p align="center">
 <strong>Thanks for your time and consideration</strong>
 </p>
