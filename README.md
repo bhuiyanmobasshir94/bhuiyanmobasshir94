@@ -5,7 +5,7 @@
 
 
 <a target="_blank" href="/"><img width="500" align="right" src="https://github-readme-stats.vercel.app/api?username=bhuiyanmobasshir94&show_icons=true&theme=dark&count_private=true"></a>
-<a target="_blank" href="/"><img width="500" height="300" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuiyanmobasshir94&theme=radical"></a>
+<a target="_blank" href="/"><img width="500" height="300" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuiyanmobasshir94&theme=dark"></a>
 
 ### Hi there, welcome to this repository 👋
 
@@ -55,7 +55,7 @@
 <div align="center">
 <!--     <img src="https://github-readme-stats.vercel.app/api?username=bhuiyanmobasshir94&show_icons=true&count_private=true&theme=nightowl" /> -->
 <!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuiyanmobasshir94&theme=nightowl" /> -->
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=bhuiyanmobasshir94&theme=radical" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=bhuiyanmobasshir94&theme=dark" />
 </div>
 
 <p align="center">
