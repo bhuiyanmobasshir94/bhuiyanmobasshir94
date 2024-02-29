@@ -1,44 +1,43 @@
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:mobasshirbhuiyan.shagor@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mobasshir-bhuiyan-shagor/)
-[![Kaggle Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=37474f&logo=kaggle&logoColor=4fc3f7)](https://www.kaggle.com/mobasshir)
-![](https://komarev.com/ghpvc/?username=bhuiyanmobasshir94&style=plastic)
+## 🌐 Contacts:
+[![Gmail](https://img.shields.io/badge/%20-%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:mobasshirbhuiyan.shagor@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/hossainalmahdi](https://www.linkedin.com/in/mobasshir-bhuiyan-shagor/))
+[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=Kaggle&logoColor=white)]([https://www.kaggle.com/hossainalmahdi](https://www.kaggle.com/mobasshir))
+<be>
+## Skills & Technologies:
+#### Languages:
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)]()
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
+#### Web:
+[![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]()
+[![CSS](https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)]()
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
+#### AI/ML:
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)]()
+[![CNN](https://img.shields.io/badge/CNN-FF6F00?style=for-the-badge&logoColor=white)]()
+[![RNN](https://img.shields.io/badge/RNN-FF6F00?style=for-the-badge&logoColor=white)]()
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)]()
+[![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)]()
+[![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge&logoColor=white)]()
+[![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)]()
+#### Cloud:
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
+#### Others:
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)]()
+[![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)]()
+[![UiPath](https://img.shields.io/badge/UiPath-005491?style=for-the-badge&logo=uipath&logoColor=white)]()
+[![LabVIEW](https://img.shields.io/badge/LabVIEW-FFDB00?style=for-the-badge&logo=labview&logoColor=white)]()
+[![Proteus](https://img.shields.io/badge/Proteus-00979D?style=for-the-badge&logoColor=white)]()
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
+[![Vagrant](https://img.shields.io/badge/Vagrant-1563FF?style=for-the-badge&logo=vagrant&logoColor=white)]()
+[![Webots](https://img.shields.io/badge/Webots-222222?style=for-the-badge&logoColor=white)]()
+<br><br><br>
 
-
-
-
-<!-- ### Hi there, welcome to this repository 👋
- [![Twitter Follow](https://img.shields.io/badge/dynamic/json.svg?color=14171A&labelColor=37474f&logo=twitter&logoColor=4fc3f7&label=&query=%24[0].followers_count&url=https%3A%2F%2Fcdn.syndication.twimg.com%2Fwidgets%2Ffollowbutton%2Finfo.json%3Fscreen_names%3Dharunurrashid97&suffix=%20Followers)](https://twitter.com/muntakimurr) -->
-<!-- [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/munta_insta/) -->
-
-<!--
-**bhuiyanmobasshir94/bhuiyanmobasshir94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-<!--
-- 🔭 I’m currently working on **Machine Learning (Recommendation Systems)**
-- 🌱 I’m currently learning **Machine Learning and Cloud DevOps. I am a PhD aspirant in the field of Machine Learing**.
-- 👯 I’m looking to collaborate on **NLP and Biomedical Imaging projects**. 
-- 🤔 I’m looking for help with **Research on Biomedical Imaging**.
-- 💬 Ask me about **ML, DL, DS, DevOps, CV and Edge / IoT technologies**.
-- 📫 How to reach me: google *"Mobasshir Bhuiyan Shagor"*
-- ⚡ Fun fact: **Love talking with innovative minds**.
--->
-<!--
-### ✨ Handles ✨
--	DataCamp: mobasshir-bhuiyan-shagor
--	HackerRank: MobasshirShagor
--	Stack Overflow: /users/7195890/mobasshir-bhuiyan
--	Medium: @mobasshirbhuiyan.shagor
-
-### ✨ Research Handles ✨
-- Google Scholar: [~](https://scholar.google.com/citations?user=QS61JrYAAAAJ&hl=en)
-- Researchgate: [~](https://www.researchgate.net/profile/Mobasshir_Shagor)
-- ORCID: [~](https://orcid.org/0000-0003-3912-7650)
-
-### ✨ Skills ✨
-- CV [~](https://github.com/bhuiyanmobasshir94/bhuiyanmobasshir94/blob/main/CV.md)
--->
-
-### ✨ Repository Listing ✨
+<!-- ### ✨ Repository Listing ✨
 
 | Artificial Intelligence | Computing | Software Engineering | Miscellaneous |
 |-	|-	|- |- |
@@ -49,21 +48,19 @@
 | [Edge / IoT](https://github.com/bhuiyanmobasshir94/Edge-IoT) |  | [Cloud DevOps](https://github.com/bhuiyanmobasshir94/Cloud-DevOps) | [Books](https://github.com/bhuiyanmobasshir94/Books) |
 | [NLP / NLU](https://github.com/bhuiyanmobasshir94/Natural-Language-Processing-And-Understanding) | | | |
 
-# 📊Stats:
-
-<div>
+-->
+<h1 align="center">📊Statistics</h1>
+<div align="center">
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=bhuiyanmobasshir94&show_icons=true&theme=dark">
   <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=bhuiyanmobasshir94&layout=compact&theme=onedark" />
   <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=bhuiyanmobasshir94&theme=github">
   <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=bhuiyanmobasshir94&theme=dark" />
 </div>
 
-<br>
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=bhuiyanmobasshir94&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-![Snake animation](https://raw.githubusercontent.com/bhuiyanmobasshir94/bhuiyanmobasshir94/output/github-contribution-grid-snake-dark.svg)
-<p align="center"> 
-  Visitors count<br>
+<div align="center">
+ <img src="https://github-profile-trophy.vercel.app/?username=bhuiyanmobasshir94&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy" />
+<p> 
+  VISITOR COUNT<br>
   <img src="https://profile-counter.glitch.me/bhuiyanmobasshir94/count.svg" />
 </p>
 </div>
