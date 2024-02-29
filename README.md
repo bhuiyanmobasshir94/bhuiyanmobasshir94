@@ -24,6 +24,7 @@
 - 📫 How to reach me: google *"Mobasshir Bhuiyan Shagor"*
 - ⚡ Fun fact: **Love talking with innovative minds**.
 -->
+<!--
 ### ✨ Handles ✨
 -	DataCamp: mobasshir-bhuiyan-shagor
 -	HackerRank: MobasshirShagor
@@ -37,6 +38,7 @@
 
 ### ✨ Skills ✨
 - CV [~](https://github.com/bhuiyanmobasshir94/bhuiyanmobasshir94/blob/main/CV.md)
+-->
 
 ### ✨ Repository Listing ✨
 
