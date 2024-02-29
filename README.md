@@ -4,12 +4,10 @@
 ![](https://komarev.com/ghpvc/?username=bhuiyanmobasshir94&style=plastic)
 
 
-<a target="_blank" href="/"><img width="500" align="right" src="https://github-readme-stats.vercel.app/api?username=bhuiyanmobasshir94&show_icons=true&theme=dark&count_private=true"></a>
-<a target="_blank" href="/"><img width="500" height="300" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuiyanmobasshir94&theme=dark"></a>
 
-### Hi there, welcome to this repository 👋
 
-<!-- [![Twitter Follow](https://img.shields.io/badge/dynamic/json.svg?color=14171A&labelColor=37474f&logo=twitter&logoColor=4fc3f7&label=&query=%24[0].followers_count&url=https%3A%2F%2Fcdn.syndication.twimg.com%2Fwidgets%2Ffollowbutton%2Finfo.json%3Fscreen_names%3Dharunurrashid97&suffix=%20Followers)](https://twitter.com/muntakimurr) -->
+<!-- ### Hi there, welcome to this repository 👋
+ [![Twitter Follow](https://img.shields.io/badge/dynamic/json.svg?color=14171A&labelColor=37474f&logo=twitter&logoColor=4fc3f7&label=&query=%24[0].followers_count&url=https%3A%2F%2Fcdn.syndication.twimg.com%2Fwidgets%2Ffollowbutton%2Finfo.json%3Fscreen_names%3Dharunurrashid97&suffix=%20Followers)](https://twitter.com/muntakimurr) -->
 <!-- [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/munta_insta/) -->
 
 <!--
@@ -51,17 +49,21 @@
 | [Edge / IoT](https://github.com/bhuiyanmobasshir94/Edge-IoT) |  | [Cloud DevOps](https://github.com/bhuiyanmobasshir94/Cloud-DevOps) | [Books](https://github.com/bhuiyanmobasshir94/Books) |
 | [NLP / NLU](https://github.com/bhuiyanmobasshir94/Natural-Language-Processing-And-Understanding) | | | |
 
-<!-- [![Mobasshir's github stats](https://github-readme-stats.vercel.app/api?username=bhuiyanmobasshir94&show_icons=true&theme=radical)](https://github.com/bhuiyanmobasshir94/github-readme-stats) -->
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=bhuiyanmobasshir94&show_icons=true"> -->
+# 📊Stats:
 
-<div align="center">
-<!--     <img src="https://github-readme-stats.vercel.app/api?username=bhuiyanmobasshir94&show_icons=true&count_private=true&theme=nightowl" /> -->
-<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuiyanmobasshir94&theme=nightowl" /> -->
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=bhuiyanmobasshir94&theme=dark" />
+<div>
+  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=bhuiyanmobasshir94&show_icons=true&theme=dark">
+  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=bhuiyanmobasshir94&layout=compact&theme=onedark" />
+  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=bhuiyanmobasshir94&theme=github">
+  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=bhuiyanmobasshir94&theme=dark" />
 </div>
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=bhuiyanmobasshir94&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<br>
 
-<p align="center">
-<strong>Thanks for your time and consideration</strong>
+[![Trophies](https://github-profile-trophy.vercel.app/?username=bhuiyanmobasshir94&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+![Snake animation](https://raw.githubusercontent.com/bhuiyanmobasshir94/bhuiyanmobasshir94/output/github-contribution-grid-snake-dark.svg)
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/bhuiyanmobasshir94/count.svg" />
 </p>
+</div>
