@@ -1,7 +1,7 @@
 ## 🌐 Contacts:
 [![Gmail](https://img.shields.io/badge/%20-%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:mobasshirbhuiyan.shagor@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/hossainalmahdi](https://www.linkedin.com/in/mobasshir-bhuiyan-shagor/))
-[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=Kaggle&logoColor=white)]([https://www.kaggle.com/hossainalmahdi](https://www.kaggle.com/mobasshir))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/mobasshir-bhuiyan-shagor/](https://www.linkedin.com/in/mobasshir-bhuiyan-shagor/))
+[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=Kaggle&logoColor=white)]([https://www.kaggle.com/mobasshir](https://www.kaggle.com/mobasshir))
 ## Skills & Technologies:
 #### Programming Languages:
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
@@ -116,6 +116,7 @@
 
 <div align="center">
  <img src="https://github-profile-trophy.vercel.app/?username=bhuiyanmobasshir94&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy" />
+ <img src="https://raw.githubusercontent.com/bhuiyanmobasshir94/bhuiyanmobasshir94/output/github-contribution-grid-snake-dark.svg" />
 <p> 
   VISITOR COUNT<br>
   <img src="https://profile-counter.glitch.me/bhuiyanmobasshir94/count.svg" />
