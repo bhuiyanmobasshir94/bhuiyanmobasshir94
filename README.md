@@ -108,9 +108,9 @@
 ![Static Badge](https://img.shields.io/badge/Computing-red?style=for-the-badge&logo=Github&label=Data%20Engineering&link=https%3A%2F%2Fgithub.com%2Fbhuiyanmobasshir94%2FData-Engineering)
 ![Static Badge](https://img.shields.io/badge/Misc.-yellow?style=for-the-badge&logo=Github&label=Research&link=https%3A%2F%2Fgithub.com%2Fbhuiyanmobasshir94%2FResearch)
 ![Static Badge](https://img.shields.io/badge/Misc.-yellow?style=for-the-badge&logo=Github&label=Higher%20Study&link=https%3A%2F%2Fgithub.com%2Fbhuiyanmobasshir94%2FHigher-Study)
+![Static Badge](https://img.shields.io/badge/Misc.-yellow?style=for-the-badge&logo=Github&label=Books&link=https%3A%2F%2Fgithub.com%2Fbhuiyanmobasshir94%2FBooks)
 ![Static Badge](https://img.shields.io/badge/Misc.-yellow?style=for-the-badge&logo=Github&label=Coursera%20Specializations&link=https%3A%2F%2Fgithub.com%2Fbhuiyanmobasshir94%2FCoursera-Specializations)
 ![Static Badge](https://img.shields.io/badge/Misc.-yellow?style=for-the-badge&logo=Github&label=NUS%20Artificial%20Intelligence%20Training&link=https%3A%2F%2Fgithub.com%2Fbhuiyanmobasshir94%2FNUS-Artificial-Intelligence-Training)
-![Static Badge](https://img.shields.io/badge/Misc.-yellow?style=for-the-badge&logo=Github&label=Books&link=https%3A%2F%2Fgithub.com%2Fbhuiyanmobasshir94%2FBooks)
 <br>
 
 <h1 align="center">📊Statistics</h1>
