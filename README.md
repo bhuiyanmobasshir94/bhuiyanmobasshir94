@@ -92,12 +92,15 @@
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+#### ✨ Repository Listing ✨
+![Static Badge](https://img.shields.io/badge/AI-green?style=for-the-badge&logo=Github&label=Machine%20Learning&link=https%3A%2F%2Fgithub.com%2Fbhuiyanmobasshir94%2FMachine-Learning)
+![Static Badge](https://img.shields.io/badge/AI-green?style=for-the-badge&logo=Github&label=Deep%20Learning&link=https%3A%2F%2Fgithub.com%2Fbhuiyanmobasshir94%2FDeep-Learning)
+![Static Badge](https://img.shields.io/badge/AI-green?style=for-the-badge&logo=Github&label=Data%20Science&link=https%3A%2F%2Fgithub.com%2Fbhuiyanmobasshir94%2FData-Science)
+![Static Badge](https://img.shields.io/badge/AI-green?style=for-the-badge&logo=Github&label=Computer%20Vision&link=https%3A%2F%2Fgithub.com%2Fbhuiyanmobasshir94%2FComputer-Vision)
+![Static Badge](https://img.shields.io/badge/AI-green?style=for-the-badge&logo=Github&label=Edge%20%2F%20IoT&link=https%3A%2F%2Fgithub.com%2Fbhuiyanmobasshir94%2FEdge-IoT)
+![Static Badge](https://img.shields.io/badge/AI-green?style=for-the-badge&logo=Github&label=NLP%20%2F%20NLU&link=https%3A%2F%2Fgithub.com%2Fbhuiyanmobasshir94%2FNatural-Language-Processing-And-Understanding)
 <br><br><br>
-
-<!--
--->
-
-<!-- ### ✨ Repository Listing ✨
+### ✨ Repository Listing ✨
 
 | Artificial Intelligence | Computing | Software Engineering | Miscellaneous |
 |-	|-	|- |- |
@@ -108,7 +111,6 @@
 | [Edge / IoT](https://github.com/bhuiyanmobasshir94/Edge-IoT) |  | [Cloud DevOps](https://github.com/bhuiyanmobasshir94/Cloud-DevOps) | [Books](https://github.com/bhuiyanmobasshir94/Books) |
 | [NLP / NLU](https://github.com/bhuiyanmobasshir94/Natural-Language-Processing-And-Understanding) | | | |
 
--->
 <h1 align="center">📊Statistics</h1>
 <div align="center">
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=bhuiyanmobasshir94&show_icons=true&theme=dark">
