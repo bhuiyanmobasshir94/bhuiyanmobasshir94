@@ -99,6 +99,13 @@
 ![Static Badge](https://img.shields.io/badge/AI-green?style=for-the-badge&logo=Github&label=Computer%20Vision&link=https%3A%2F%2Fgithub.com%2Fbhuiyanmobasshir94%2FComputer-Vision)
 ![Static Badge](https://img.shields.io/badge/AI-green?style=for-the-badge&logo=Github&label=Edge%20%2F%20IoT&link=https%3A%2F%2Fgithub.com%2Fbhuiyanmobasshir94%2FEdge-IoT)
 ![Static Badge](https://img.shields.io/badge/AI-green?style=for-the-badge&logo=Github&label=NLP%20%2F%20NLU&link=https%3A%2F%2Fgithub.com%2Fbhuiyanmobasshir94%2FNatural-Language-Processing-And-Understanding)
+![Static Badge](https://img.shields.io/badge/SE-blue?style=for-the-badge&logo=Github&label=Problem%20Solving&link=https%3A%2F%2Fgithub.com%2Fbhuiyanmobasshir94%2FProblem-Solving)
+![Static Badge](https://img.shields.io/badge/SE-blue?style=for-the-badge&logo=Github&label=Software%20Engineering%20Best%20Practices&link=https%3A%2F%2Fgithub.com%2Fbhuiyanmobasshir94%2FSoftware-Engineering-Best-Practices)
+![Static Badge](https://img.shields.io/badge/SE-blue?style=for-the-badge&logo=Github&label=Interview&link=https%3A%2F%2Fgithub.com%2Fbhuiyanmobasshir94%2FInterview)
+![Static Badge](https://img.shields.io/badge/SE-blue?style=for-the-badge&logo=Github&label=Testing&link=https%3A%2F%2Fgithub.com%2Fbhuiyanmobasshir94%2FTesting)
+![Static Badge](https://img.shields.io/badge/SE-blue?style=for-the-badge&logo=Github&label=Cloud%20DevOps&link=https%3A%2F%2Fgithub.com%2Fbhuiyanmobasshir94%2FCloud-DevOps)
+![Static Badge](https://img.shields.io/badge/Computing-red?style=for-the-badge&logo=Github&label=GIS&link=https%3A%2F%2Fgithub.com%2Fbhuiyanmobasshir94%2FGIS)
+![Static Badge](https://img.shields.io/badge/Computing-red?style=for-the-badge&logo=Github&label=Data%20Engineering&link=https%3A%2F%2Fgithub.com%2Fbhuiyanmobasshir94%2FData-Engineering)
 <br><br><br>
 ### ✨ Repository Listing ✨
 
