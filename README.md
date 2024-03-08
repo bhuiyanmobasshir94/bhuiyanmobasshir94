@@ -6,7 +6,7 @@
 [![Stack Exchange](https://img.shields.io/badge/StackExchange-%23ffffff.svg?logo=StackExchange)](https://gis.stackexchange.com/users/130297/mobasshir-bhuiya)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/MobasshirShagor)
 ## Skills & Technologies:
-#### Programming Languages:
+#### ✨Programming Languages✨
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)]()
@@ -22,20 +22,20 @@
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 -->
-#### AI Stack:
+#### ✨AI Stack✨
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)]()
-#### BigData Stack:
+#### ✨BigData Stack✨
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
-#### Web Frameworks:
+#### ✨Web Frameworks✨
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -45,7 +45,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 -->
-#### Databases:
+#### ✨Databases✨
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -64,11 +64,11 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 -->
-#### Asynchronous Task Processor and Message Brokers:
+#### ✨Asynchronous Task Processor and Message Brokers✨
 ![Celery](https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-#### Clouds:
+#### ✨Clouds✨
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -81,7 +81,7 @@
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 -->
-#### Others:
+#### ✨Others✨
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)]()
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -92,7 +92,7 @@
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-#### ✨ Repository Listing ✨
+#### ✨ Curated Repository Listing ✨
 ![Static Badge](https://img.shields.io/badge/AI-green?style=for-the-badge&logo=Github&label=Machine%20Learning&link=https%3A%2F%2Fgithub.com%2Fbhuiyanmobasshir94%2FMachine-Learning)
 ![Static Badge](https://img.shields.io/badge/AI-green?style=for-the-badge&logo=Github&label=Deep%20Learning&link=https%3A%2F%2Fgithub.com%2Fbhuiyanmobasshir94%2FDeep-Learning)
 ![Static Badge](https://img.shields.io/badge/AI-green?style=for-the-badge&logo=Github&label=Data%20Science&link=https%3A%2F%2Fgithub.com%2Fbhuiyanmobasshir94%2FData-Science)
@@ -106,17 +106,12 @@
 ![Static Badge](https://img.shields.io/badge/SE-blue?style=for-the-badge&logo=Github&label=Cloud%20DevOps&link=https%3A%2F%2Fgithub.com%2Fbhuiyanmobasshir94%2FCloud-DevOps)
 ![Static Badge](https://img.shields.io/badge/Computing-red?style=for-the-badge&logo=Github&label=GIS&link=https%3A%2F%2Fgithub.com%2Fbhuiyanmobasshir94%2FGIS)
 ![Static Badge](https://img.shields.io/badge/Computing-red?style=for-the-badge&logo=Github&label=Data%20Engineering&link=https%3A%2F%2Fgithub.com%2Fbhuiyanmobasshir94%2FData-Engineering)
-<br><br><br>
-### ✨ Repository Listing ✨
-
-| Artificial Intelligence | Computing | Software Engineering | Miscellaneous |
-|-	|-	|- |- |
-| [Machine Learning](https://github.com/bhuiyanmobasshir94/Machine-Learning) | [Data Engineering](https://github.com/bhuiyanmobasshir94/Data-Engineering) | [Problem Solving](https://github.com/bhuiyanmobasshir94/Problem-Solving)  | [Research](https://github.com/bhuiyanmobasshir94/Research) |
-| [Deep Learning](https://github.com/bhuiyanmobasshir94/Deep-Learning) | Big Data | [Software Engineering Best Practices](https://github.com/bhuiyanmobasshir94/Software-Engineering-Best-Practices) | [Higher Study](https://github.com/bhuiyanmobasshir94/Higher-Study) |
-| [Data Science](https://github.com/bhuiyanmobasshir94/Data-Science) | [GIS](https://github.com/bhuiyanmobasshir94/GIS) | [Interview](https://github.com/bhuiyanmobasshir94/Interview) | [Coursera Specializations](https://github.com/bhuiyanmobasshir94/Coursera-Specializations) |
-| [Computer Vision](https://github.com/bhuiyanmobasshir94/Computer-Vision) |   | [Testing](https://github.com/bhuiyanmobasshir94/Testing) | [NUS Artificial Intelligence Training](https://github.com/bhuiyanmobasshir94/NUS-Artificial-Intelligence-Training) |
-| [Edge / IoT](https://github.com/bhuiyanmobasshir94/Edge-IoT) |  | [Cloud DevOps](https://github.com/bhuiyanmobasshir94/Cloud-DevOps) | [Books](https://github.com/bhuiyanmobasshir94/Books) |
-| [NLP / NLU](https://github.com/bhuiyanmobasshir94/Natural-Language-Processing-And-Understanding) | | | |
+![Static Badge](https://img.shields.io/badge/Misc.-yellow?style=for-the-badge&logo=Github&label=Research&link=https%3A%2F%2Fgithub.com%2Fbhuiyanmobasshir94%2FResearch)
+![Static Badge](https://img.shields.io/badge/Misc.-yellow?style=for-the-badge&logo=Github&label=Higher%20Study&link=https%3A%2F%2Fgithub.com%2Fbhuiyanmobasshir94%2FHigher-Study)
+![Static Badge](https://img.shields.io/badge/Misc.-yellow?style=for-the-badge&logo=Github&label=Coursera%20Specializations&link=https%3A%2F%2Fgithub.com%2Fbhuiyanmobasshir94%2FCoursera-Specializations)
+![Static Badge](https://img.shields.io/badge/Misc.-yellow?style=for-the-badge&logo=Github&label=NUS%20Artificial%20Intelligence%20Training&link=https%3A%2F%2Fgithub.com%2Fbhuiyanmobasshir94%2FNUS-Artificial-Intelligence-Training)
+![Static Badge](https://img.shields.io/badge/Misc.-yellow?style=for-the-badge&logo=Github&label=Books&link=https%3A%2F%2Fgithub.com%2Fbhuiyanmobasshir94%2FBooks)
+<br>
 
 <h1 align="center">📊Statistics</h1>
 <div align="center">
