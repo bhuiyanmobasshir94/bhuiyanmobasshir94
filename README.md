@@ -93,7 +93,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 #### ✨ Curated Repository Listing ✨
-![Static Badge](https://img.shields.io/badge/AI-green?style=for-the-badge&logo=Github&label=Machine%20Learning&link=https%3A%2F%2Fgithub.com%2Fbhuiyanmobasshir94%2FMachine-Learning)
+[![Static Badge](https://img.shields.io/badge/AI-green?style=for-the-badge&logo=Github&label=Machine%20Learning)](https://github.com/bhuiyanmobasshir94/Machine-Learning)
 ![Static Badge](https://img.shields.io/badge/AI-green?style=for-the-badge&logo=Github&label=Deep%20Learning&link=https%3A%2F%2Fgithub.com%2Fbhuiyanmobasshir94%2FDeep-Learning)
 ![Static Badge](https://img.shields.io/badge/AI-green?style=for-the-badge&logo=Github&label=Data%20Science&link=https%3A%2F%2Fgithub.com%2Fbhuiyanmobasshir94%2FData-Science)
 ![Static Badge](https://img.shields.io/badge/AI-green?style=for-the-badge&logo=Github&label=Computer%20Vision&link=https%3A%2F%2Fgithub.com%2Fbhuiyanmobasshir94%2FComputer-Vision)
