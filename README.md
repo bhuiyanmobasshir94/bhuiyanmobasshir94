@@ -8,7 +8,7 @@ By day I'm a Staff ML Engineer at [Graaho Technologies](https://www.graaho.com/)
 
 **Research**
 
-- **BoviShift** (first author, under review): a six-year benchmark of 2,657 animals that splits an accuracy drop into identity leakage and temporal shift. Code and data will be released with the paper.
+- **BoviShift** (first author, project lead): a six-year benchmark of 2,657 animals that splits an accuracy drop into identity leakage and temporal shift. Code and data will be released publicly.
 - **Auditing LLM-based recommenders** (in preparation): does the stated explanation match the ranking, does the model invent item attributes, and do those failures fall unevenly across users? Runs without GPU compute.
 - **[CID](https://github.com/bhuiyanmobasshir94/CID)** (ICCA 2022): 513 cattle across 8 breeds, 2,052 photographs and 15,812 video frames, released with regression and classification baselines. [Paper](https://doi.org/10.1145/3542954.3543018)
 
@@ -25,4 +25,4 @@ I translated Week 12 of the [NYU Deep Learning course](https://atcold.github.io/
 
 Most of my day-to-day work is in PyTorch, FastAPI, MLflow, Airflow and AWS (SageMaker, Bedrock).
 
-**Find me:** [mobasshirbhuiya.com](https://www.mobasshirbhuiya.com) · [Google Scholar](https://scholar.google.com/citations?user=QS61JrYAAAAJ) · [LinkedIn](https://www.linkedin.com/in/mobasshir-bhuiya-shagor/) · [Kaggle](https://www.kaggle.com/mobasshir) · [mobasshir.bhuiya@gmail.com](mailto:mobasshir.bhuiya@gmail.com)
+**Find me:** [mobasshirbhuiya.com](https://www.mobasshirbhuiya.com) · [Google Scholar](https://scholar.google.com/citations?user=QS61JrYAAAAJ) · [ORCID](https://orcid.org/0000-0003-3912-7650) · [Semantic Scholar](https://www.semanticscholar.org/author/Mobasshir-Bhuiya-Shagor/1575439165) · [LinkedIn](https://www.linkedin.com/in/mobasshir-bhuiya-shagor/) · [Kaggle](https://www.kaggle.com/mobasshir) · [mobasshir.bhuiya@gmail.com](mailto:mobasshir.bhuiya@gmail.com)
