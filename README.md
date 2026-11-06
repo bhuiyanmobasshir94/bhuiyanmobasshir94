@@ -1,4 +1,4 @@
-![Mobasshir Bhuiya Shagor. A model is scored on the data we have and trusted on the data we don't. I build the instruments that measure the difference.](banner.jpg)
+![Mobasshir Bhuiya Shagor. A model is scored on the data we have and trusted on the data we don't. I build the instruments that measure the difference.](Evaluation Instruments_ Vision and Personalisation.png)
 
 ### Hi, I'm Mobasshir
 
